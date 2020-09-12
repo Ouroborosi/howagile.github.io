@@ -1,12 +1,12 @@
 title: 'HowAgile'
-description: 'How Agile Portal'
+description: 'How Agile 好敏捷 | 敏捷思維的推手 | 協助你邁向敏捷之道'
 themeConfig:
+    search: false
     nav:
         -   text: 'Home'
             link: '/'
         -   text: '培訓師'
-            link: '/trainer'
+            link: '/#培訓師'
         -   text: '課程'
-            link: '/courses'
+            link: '/#課程'
 base: /howagile.github.io/
-    
