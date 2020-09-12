@@ -1,2 +1,0 @@
-# howagile.github.io
-HowAgile

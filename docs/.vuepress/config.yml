@@ -1,0 +1,12 @@
+title: 'HowAgile'
+description: 'How Agile Portal'
+themeConfig:
+    nav:
+        -   text: 'Home'
+            link: '/'
+        -   text: '培訓師'
+            link: '/trainer'
+        -   text: '課程'
+            link: '/courses'
+base: /howagile.github.io/
+    

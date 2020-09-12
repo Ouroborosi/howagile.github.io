@@ -1,0 +1,13 @@
+{
+  "name": "howagile.github.io",
+  "version": "1.0.0",
+  "description": "HowAgile Portal",
+  "main": "index.js",
+  "repository": "git@github.com:Ouroborosi/howagile.github.io.git",
+  "author": "Ouroborosi <wa104c1200332@gmail.com>",
+  "license": "Copyright©2020-Present HowAgile.All rights reserved.",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
