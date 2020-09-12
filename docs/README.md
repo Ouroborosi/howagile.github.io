@@ -16,7 +16,7 @@ footer: Copyright © 2020 HowAgile
 ---
 
 # 培訓師
-<img class="profile-img" src="/images/trainer/tony-lee-profile.png" width="250" height="250">
+<img class="profile-img" src="images/trainer/tony-lee-profile.png" width="250" height="250">
 
 台灣第一位 Professional Scrum Trainer，亦是 Scrum.org 全球少數能同時使用中英文授課的培訓師，也定期於國內外開設實體與線上課程。
 過往經歷超過15年的實戰經驗與全方位的管理知識，參與過不同大小的敏捷團隊和組織轉型, 其中包括在美國、加拿大、菲律賓與台灣的的跨國公司、新創、和中小型企業，擔任過專案和產品經理、工程部門主管等職務，也是加拿大線上教育平台 myBlueprint.ca 的合夥人之一。且於菲律賓任職工程部經理時，歷時兩年時間成功導入敏捷思維協助團隊轉型。
